@@ -7,7 +7,7 @@ php artisan migrate
 php artisan db:seed
 
 ## 3. Compiler les assets (SCSS/CSS/JS) avec Vite
-npm run build
+npm run buildread
 npm run dev
 
 ## 4. Démarrer le serveur de développement Laravel
